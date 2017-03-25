@@ -1,0 +1,36 @@
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\BeyondMun.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\BeyondMun.pdb
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\Assembly-CSharp.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\KSPUtil.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\UnityEngine.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\Assembly-CSharp-firstpass.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\SaveUpgradePipeline.Core.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\TrackIRUnity.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\UnityEngine.UI.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\KSPAssets.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\Mono.Cecil.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\Vectrosity.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\TDx.TDxInput.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\Mono.Security.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\bin\Debug\UnityEngine.xml
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\obj\Debug\BeyondMun.csprojResolveAssemblyReference.cache
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\obj\Debug\BeyondMun.dll
+c:\users\limon\documents\visual studio 2015\Projects\BeyondMun\BeyondMun\obj\Debug\BeyondMun.pdb
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\BeyondMun.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\BeyondMun.pdb
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\Assembly-CSharp.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\KSPUtil.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\UnityEngine.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\SaveUpgradePipeline.Core.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\TrackIRUnity.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\UnityEngine.UI.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\KSPAssets.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\Mono.Cecil.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\Vectrosity.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\TDx.TDxInput.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\Mono.Security.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\bin\Debug\UnityEngine.xml
+D:\Kerbal Mods\BeyondMun\BeyondMun\obj\Debug\BeyondMun.csprojResolveAssemblyReference.cache
+D:\Kerbal Mods\BeyondMun\BeyondMun\obj\Debug\BeyondMun.dll
+D:\Kerbal Mods\BeyondMun\BeyondMun\obj\Debug\BeyondMun.pdb
